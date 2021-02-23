@@ -11,5 +11,6 @@ Aspiring developer, Backend Engineer🇰🇷
 ### Sub Stack 🌱  
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2b%2b&logoColor=white) ![Python](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white)
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mmkser10)
 <!--
 **mmkser10/mmkser10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
