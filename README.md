@@ -8,7 +8,12 @@ Aspiring developer, Backend Engineer🇰🇷
 
 <a href="https://instagram.com/mk_seo_10">
     <img 
-        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/mk_seo_10"
+        src="http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://instagram.com/mk_seo_10/"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+<a href="https://mmkser10.github.io/">
+    <img 
+        src="http://img.shields.io/badge/-Portfolio-181717?style=flat&logo=Github&logoColor=white&link=https://mmkser10.github.io/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
