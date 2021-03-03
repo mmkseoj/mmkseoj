@@ -8,7 +8,7 @@ Aspiring developer, Backend Engineer🇰🇷
 
 <a href="https://instagram.com/mk_seo_10">
     <img 
-        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/mk_seo_10/"
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/mk_seo_10"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
