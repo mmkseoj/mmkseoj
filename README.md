@@ -15,8 +15,6 @@ Aspiring developer, Backend Engineer🇰🇷
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
-
-
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mmkser10)
 <!--
 **mmkser10/mmkser10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
