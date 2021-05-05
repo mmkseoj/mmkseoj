@@ -1,7 +1,7 @@
 ![Commit](https://user-images.githubusercontent.com/57768558/108633259-a2417200-74b6-11eb-8910-5e75b191a47e.gif)   
 
 
-# One Day, One Commit🧑‍💻
+# One Day, One Commit Challenge🧑‍💻
 Aspiring developer, Backend Engineer🇰🇷
 
 <a href="https://instagram.com/mk_seo_10">
