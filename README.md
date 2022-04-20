@@ -1,9 +1,12 @@
 ![Commit](https://user-images.githubusercontent.com/57768558/108633259-a2417200-74b6-11eb-8910-5e75b191a47e.gif)   
 
 
-# One Day, One Commit Challenge🧑‍💻
-Aspiring developer, Backend Engineer🇰🇷
-
+# Restart by ```2022.04.21```🧑‍💻  
+> Main : Backend Engineer🇰🇷  
+## Career
+- Yeungnam University ```2015.03``` ~ ```2022.02```  
+- POSCO-ICT ```2021.11``` ~ 
+## My Info
 <a href="https://instagram.com/mk_seo_10">
     <img 
         src="http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://instagram.com/mk_seo_10/"
