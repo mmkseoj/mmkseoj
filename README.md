@@ -8,13 +8,17 @@ Restart by ```2022.05.05```
 
 </div>
 
-## Career
+## 🎲 Career 🎲
 **Backend Engineer🇰🇷**
 - Yeungnam University ```2015.03``` ~ ```2022.02```  
 - POSCO-ICT ```2021.11``` ~ 
     
 <div align="center">
     
+    
+<h3 align="center">🧩 My Skill 🧩</h3>
+<h4 align="center">Java, Springboot, MariaDB, OracleDB, Mybatis, JPA, Javascript, React, Mobx
+
 <h3 align="center">🧷 My Infomation 🧷</h3>
 
 <a href="https://instagram.com/mk_seo_10">
