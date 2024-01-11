@@ -1,20 +1,17 @@
 <div align="center">
     
-# I'm SEONGJUN🧑‍💻🎮  
+# I'm KIM SEONGJUN🧑‍💻🎮  
     
 ![Commit](https://user-images.githubusercontent.com/57768558/108633259-a2417200-74b6-11eb-8910-5e75b191a47e.gif)   
-
-Restart by ```2022.05.05```  
 
 </div>
 
 ## 🎲 Career 🎲
 **Backend Engineer🇰🇷**
 - Yeungnam University ```2015.03``` ~ ```2022.02```  
-- POSCO-ICT ```2021.11``` ~ 
-    
+- POSCO-DX ```2021.11``` ~ 
+    * MES SYSTEM OPERATION
 <div align="center">
-    
     
 <h3 align="center">🧩 My Skill 🧩</h3>
 <h4 align="center">Java, Springboot, MariaDB, OracleDB, Mybatis, JPA, Javascript, React, Mobx
