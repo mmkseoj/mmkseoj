@@ -24,7 +24,7 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
   
-<a align="center" href="https://www.notion.so/e35ae9c8467846c7a1ad67701a3a4649/">
+<a align="center" href="[https://www.notion.so/e35ae9c8467846c7a1ad67701a3a4649/](https://tricky-scissor-342.notion.site/b69baf509eb240dc93f1a495607d5bb9)">
     <img 
         src="http://img.shields.io/badge/-Portfolio-000000?             style=flat&logo=Notion&logoColor=white&link=https://www.notion.so/e35ae9c8467846c7a1ad67701a3a4649/"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
